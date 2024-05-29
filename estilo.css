@@ -1,0 +1,206 @@
+@charset "UTF-8";
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif
+}
+
+.secao_banner {
+	background-image: url(img/banner-topo.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: auto;
+	padding-top: 120px;
+	padding-bottom: 80px;
+}
+
+.container_logo {
+	margin: auto 30px;
+	max-width: 250px;
+	color: #3c184e;
+	text-align: center;
+}
+
+.container_logo .p1 {
+	font-size: 35px;
+	margin-bottom: 5px;
+
+}
+
+.container_logo img {
+	width: 30px;
+	margin-right: 5px;
+}
+
+.container_logo .p2 {
+	font-size: 14px;
+	text-align: center;
+	margin: 0;
+}
+
+.secao_bannerinfo {
+	max-width: 1024px;
+	border-radius: 10px;
+	padding: 40px;
+	margin-top: 70px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0;
+	background-color: #ffffffc4;
+	box-shadow: 0px 8px 32px #1f26875e;
+}
+
+.secao_bannerinfo h1 {
+	font-size: 60px;
+	color: #3c184e;
+	text-align: center;
+	font-weight: 800;
+	margin: 0px 0px 40px 0px;
+}
+
+.secao_bannerinfo p {
+	width: 200px;
+	padding: 10px 25px;
+	margin: 0 auto;
+	background-color: #3c184e;
+	color: white;
+	text-decoration: none;
+	border-radius: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.secao_bannerinfo a {
+	text-decoration: none;
+	color: white;
+}
+
+.secao_bannerinfo img {
+	width: 20px;
+	color: white;
+}
+
+
+.secao_servicos {
+	padding: 120px 80px;
+	max-width: 100%;
+}
+
+
+h3 {
+	font-size: 36px;
+	color: #3c184e;
+	text-align: center;
+	margin: 0px 0px 45px 0px;
+
+}
+
+.container_lista {
+	max-width: 800px;
+	margin: 0px auto 50px auto;
+	color: #3c184e;
+}
+
+.container_lista li {
+	font-size: 20px;
+	margin: 0px 0px 20px 0px;
+}
+
+.container_lista span {
+	font-style: italic;
+	font-weight: 700;
+}
+
+.container_imagens {
+	max-width: 800px;
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
+
+.container_imagens img {
+	border-radius: 5px;
+	box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.container_redes {
+	padding: 120px 80px;
+	background-color: #3c184e;
+	color: white;
+	text-align: center;
+}
+
+.container_redes p {
+	text-align: center;
+	max-width: 800px;
+	font-size: 40px;
+	margin: 0px auto 50px auto;
+
+}
+
+.container_redes span {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.container_img_redes img {
+	width: 50px;
+	margin: 20px;
+}
+
+.secao_marcas {
+	padding: 120px 80px;
+	
+}
+
+.secao_marcas h3 {
+	font-size: 36px;
+	color: #3c184e;
+	text-align: center;
+	margin: 0px 0px 45px 0px;
+}
+
+.container_img_marcas {
+	text-align: center;
+	max-width: 800px;
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
+
+.container_img_marcas img {
+	width: 148px;
+	margin: 0px 15px
+}
+
+.secao_onde_estamos {
+	padding: 120px 80px;
+	text-align: center;
+} 
+
+.secao_onde_estamos h3 {							
+	font-size: 36px;
+	margin: 0px 0px 45px 0px;
+}
+
+.secao_onde_estamos p {
+	font-size: 20px;
+	color: #3c184e;
+	text-align: center;
+	margin: 0px 0px 45px 0px;
+}
+
+
+.secao_onde_estamos iframe {
+	width: 60%;
+	height: 450px;
+}
+
+.rodape {
+	width: 100%;
+	padding: 10px 0px;
+	background-color: #3c184e;
+	text-align: center;
+	color: white;
+}
+
